@@ -1,7 +1,7 @@
 
 .top-container{
   position: relative;
-  background-color: #F3F4ED;
+    background-color: #F3F4ED;
   padding-top: 100px;
   height: 610px;
 }
@@ -10,8 +10,9 @@
 }
 .bottom-container{
   position: relative;
-  background-color: #F3F4ED;
+  background-color: #536162;
   padding: 50px 0 20px;
+  color: grey;
 }
 .subtitle{
   font-family: monospace;
@@ -114,12 +115,16 @@ a:hover{
 .copyright{
   font-size: 0.75rem;
   padding: 20px 0;
+  color: grey;
+}
+.footer-link{
+  color: #F3F4ED;
 }
 
 .myStoryBTN {
   position: relative;
   top: 50px;
-  margin: auto;
+  margin: auto
   background: #FC8621;
   background-image: -webkit-linear-gradient(top, #FC8621, #682C0E);
   background-image: -moz-linear-gradient(top, #FC8621, #682C0E);
