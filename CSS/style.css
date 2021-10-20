@@ -18,9 +18,10 @@
 }
 
 .intro{
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
+
 
 h1{
   font-size: 2rem;
@@ -34,6 +35,7 @@ h2{
   font-weight: normal;
   padding-bottom: 10px;
   font-family: sans-serif;
+  line-height: 2;
 
 }
 body{
@@ -68,7 +70,7 @@ a:hover{
 .bottom-cloud{
   position: absolute;
   left: 300px;
-  bottom: 400px;
+  bottom: 350px;
 }
 .mountain{
   position: absolute;
@@ -79,6 +81,15 @@ a:hover{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+  padding: 10px;
+}
+.skill-row-final{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-top: 10px;
+  margin-bottom: 0px;
+
 }
 .skill-image-1{
   width: 25%;
@@ -90,6 +101,11 @@ a:hover{
   float: right;
   margin-left: 30px;
 }
+.skill-image-3{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
 
 .contact-message{
   width: 40%;
@@ -98,4 +114,29 @@ a:hover{
 .copyright{
   font-size: 0.75rem;
   padding: 20px 0;
+}
+
+.myStoryBTN {
+  position: relative;
+  top: 50px;
+  margin: auto;
+  background: #FC8621;
+  background-image: -webkit-linear-gradient(top, #FC8621, #682C0E);
+  background-image: -moz-linear-gradient(top, #FC8621, #682C0E);
+  background-image: -ms-linear-gradient(top, #FC8621, #682C0E);
+  background-image: -o-linear-gradient(top, #FC8621, #682C0E);
+  background-image: linear-gradient(to bottom, #FC8621, #682C0E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #F9E0AE;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.myStoryBTN:hover {
+  background: #F2A154;
+  text-decoration: none;
 }
