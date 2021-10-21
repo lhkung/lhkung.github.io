@@ -130,10 +130,10 @@ a:hover{
   color: grey;
 }
 
-.myStoryBTN {
+.my-story-BTN {
   position: relative;
   top: 50px;
-  margin: auto
+  margin: auto;
   background: #FC8621;
   background-image: -webkit-linear-gradient(top, #FC8621, #682C0E);
   background-image: -moz-linear-gradient(top, #FC8621, #682C0E);
@@ -151,7 +151,33 @@ a:hover{
   text-decoration: none;
 }
 
-.myStoryBTN:hover {
+.my-story-BTN:hover {
+  background: #F2A154;
+  text-decoration: none;
+}
+.translated-BTN {
+  position: relative;
+  top: 50px;
+  left: 250px;
+  margin: auto;
+  background: #FC8621;
+  background-image: -webkit-linear-gradient(top, #FC8621, #682C0E);
+  background-image: -moz-linear-gradient(top, #FC8621, #682C0E);
+  background-image: -ms-linear-gradient(top, #FC8621, #682C0E);
+  background-image: -o-linear-gradient(top, #FC8621, #682C0E);
+  background-image: linear-gradient(to bottom, #FC8621, #682C0E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #F9E0AE;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.translated-BTN:hover {
   background: #F2A154;
   text-decoration: none;
 }
@@ -309,11 +335,11 @@ a:hover{
 }
 
 .earth{
-  margin-top: 40px;
+  margin-top: 70px;
   width: 10%;
 }
 .quote{
-  margin-top: 40px;
+  margin-top: 50px;
   font-weight: 300;
   font-size: 1.25rem;
 }
