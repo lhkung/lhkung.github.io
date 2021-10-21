@@ -44,6 +44,7 @@ h2{
 
 }
 body{
+  background-color: #FDFAF6;
   color: #434242;
   margin:0px;
   text-align: center;
@@ -302,11 +303,20 @@ a:hover{
   right: 70px;
   width: 50px;
 }
+.translated-h1{
+  font-family: sans-serif;
+  margin-bottom: 50px;
+}
 
-
-
-
-
+.earth{
+  margin-top: 40px;
+  width: 10%;
+}
+.quote{
+  margin-top: 40px;
+  font-weight: 300;
+  font-size: 1.25rem;
+}
 .translated-body{
-  background-color: #F3EFE0;
+  background-color: #FDFAF6;
 }
