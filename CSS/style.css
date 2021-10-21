@@ -22,6 +22,9 @@
   width: 50%;
   margin: auto;
 }
+.kung{
+  margin: auto;
+}
 
 
 h1{
@@ -142,6 +145,7 @@ a:hover{
   font-family: Arial;
   color: #F9E0AE;
   font-size: 20px;
+  font-weight: 300;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -149,4 +153,31 @@ a:hover{
 .myStoryBTN:hover {
   background: #F2A154;
   text-decoration: none;
+}
+
+
+
+/*My Story Page*/
+
+.my-story-body{
+  background-color: #F3EFE0;
+  margin:0px;
+  font-family: sans-serif;
+}
+
+.my-story-h1{
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 200px;
+  color: #434242;
+  font-family: sans-serif;
+  margin: 200px auto 100px auto;
+}
+
+.story{
+  text-align: left;
+  width: 60%;
+  line-height: 2;
+  font-weight: 300;
+  margin: 20px auto 20px auto;
 }
