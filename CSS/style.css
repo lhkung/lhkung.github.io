@@ -202,6 +202,15 @@ a:hover{
   font-family: sans-serif;
   margin: 50px auto 100px auto;
 }
+
+.allegory{
+  border-radius: 25px;
+  width: 40%;
+}
+
+.allegory-explain{
+  font-size: 1rem;
+}
 .story-container{
   padding-top:100px;
   padding-bottom:100px;
