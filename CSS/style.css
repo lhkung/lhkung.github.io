@@ -186,20 +186,7 @@ a:hover{
 .book{
   padding-top:100px;
 }
-.TTM-E{
-    height: 200px;
-    margin-right: 150px;
-}
-.TTM-C{
-  height: 200px;
-}
 
-.arrow1{
-  position: relative;
-  bottom: 60px;
-  right: 70px;
-  width: 50px;
-}
 
 .TAW-E{
   position: relative;
@@ -210,11 +197,24 @@ a:hover{
 .TAW-C{
   height: 200px;
 }
-
-.arrow2{
+.arrow1{
   position: relative;
   bottom: 60px;
   right: 40px;
+  width: 50px;
+}
+
+.TTM-E{
+    height: 200px;
+    margin-right: 150px;
+}
+.TTM-C{
+  height: 200px;
+}
+.arrow2{
+  position: relative;
+  bottom: 60px;
+  right: 70px;
   width: 50px;
 }
 
@@ -234,6 +234,76 @@ a:hover{
   right: 70px;
   width: 50px;
 }
+
+.CA-E{
+  position: relative;
+  height: 200px;
+  margin-right: 150px;
+
+}
+.CA-C{
+  height: 200px;
+}
+
+.arrow4{
+  position: relative;
+  bottom: 60px;
+  right: 70px;
+  width: 50px;
+}
+
+.HOAX-E{
+  position: relative;
+  height: 200px;
+  margin-right: 150px;
+
+}
+.HOAX-C{
+  height: 200px;
+}
+
+.arrow5{
+  position: relative;
+  bottom: 60px;
+  right: 70px;
+  width: 50px;
+}
+
+.HNTDA-E{
+  position: relative;
+  height: 200px;
+  margin-right: 150px;
+
+}
+.HNTDA-C{
+  height: 200px;
+}
+
+.arrow6{
+  position: relative;
+  bottom: 60px;
+  right: 70px;
+  width: 50px;
+}
+
+.HST-E{
+  position: relative;
+  height: 200px;
+  margin-right: 150px;
+
+}
+.HST-C{
+  height: 200px;
+}
+
+.arrow7{
+  position: relative;
+  bottom: 60px;
+  right: 70px;
+  width: 50px;
+}
+
+
 
 
 
