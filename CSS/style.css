@@ -134,51 +134,48 @@ a:hover{
   position: relative;
   top: 50px;
   margin: auto;
-  background: #FC8621;
-  background-image: -webkit-linear-gradient(top, #FC8621, #682C0E);
-  background-image: -moz-linear-gradient(top, #FC8621, #682C0E);
-  background-image: -ms-linear-gradient(top, #FC8621, #682C0E);
-  background-image: -o-linear-gradient(top, #FC8621, #682C0E);
-  background-image: linear-gradient(to bottom, #FC8621, #682C0E);
+  background: #C2B8A3;
+  background-image: -webkit-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: -moz-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: -ms-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: -o-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: linear-gradient(to bottom, #C2B8A3, #A19882);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: Arial;
-  color: #F9E0AE;
+  color: #ffffff;
   font-size: 20px;
-  font-weight: 300;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .my-story-BTN:hover {
-  background: #F2A154;
+  background: #E6DDC6;
   text-decoration: none;
 }
 .translated-BTN {
   position: relative;
   top: 50px;
-  left: 250px;
   margin: auto;
-  background: #FC8621;
-  background-image: -webkit-linear-gradient(top, #FC8621, #682C0E);
-  background-image: -moz-linear-gradient(top, #FC8621, #682C0E);
-  background-image: -ms-linear-gradient(top, #FC8621, #682C0E);
-  background-image: -o-linear-gradient(top, #FC8621, #682C0E);
-  background-image: linear-gradient(to bottom, #FC8621, #682C0E);
+  background: #C2B8A3;
+  background-image: -webkit-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: -moz-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: -ms-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: -o-linear-gradient(top, #C2B8A3, #A19882);
+  background-image: linear-gradient(to bottom, #C2B8A3, #A19882);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: Arial;
-  color: #F9E0AE;
+  color: #ffffff;
   font-size: 20px;
-  font-weight: 300;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .translated-BTN:hover {
-  background: #F2A154;
+  background: #E6DDC6;
   text-decoration: none;
 }
 
