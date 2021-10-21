@@ -113,6 +113,12 @@ a:hover{
   float: left;
   margin-right: 30px;
 }
+.contact-link{
+  font-size: 1.25rem;
+}
+.contact-link:hover{
+  color: grey;
+}
 
 .contact-message{
   width: 40%;
@@ -120,7 +126,6 @@ a:hover{
 }
 .copyright{
   font-size: 0.75rem;
-  padding: 20px 0;
   color: grey;
 }
 .footer-link{
@@ -131,10 +136,6 @@ a:hover{
 .footer-link:hover{
   color: grey;
 }
-.footer{
-  color: #F3F4ED;
-}
-
 .my-story-BTN {
   position: relative;
   top: 50px;
