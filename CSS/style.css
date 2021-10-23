@@ -360,3 +360,9 @@ a:hover{
 .translated-body{
   background-color: #FDFAF6;
 }
+
+.book-intro{
+  width: 40%;
+  margin: 50px auto 0 auto;
+  text-align: left;
+}
